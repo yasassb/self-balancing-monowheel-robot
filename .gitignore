@@ -5,3 +5,5 @@ models/
 *.pt 
 *.mp4
 *.pthx
+
+.DS_Store
